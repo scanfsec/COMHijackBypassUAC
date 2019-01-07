@@ -6,7 +6,7 @@ A demo to bypass windows 10 **default** UAC configuration using COM Handler Hija
 
 - An administrator account with UAC enabled.
 - UAC level is set to default.
-- Tested on Windows 10.10.0.17134 (English) x86/x64.
+- Tested on Windows 10.0.17134 (English) x86/x64.
 
 ## Description
 
